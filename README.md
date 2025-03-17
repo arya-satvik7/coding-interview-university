@@ -259,7 +259,7 @@ Create a new branch so you can check items like this, just put an x in the brack
 
 **[⬆ back to top](#table-of-contents)**
 
-## Don't feel you aren't smart enough
+## *Don't feel you aren't smart enough*
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - The following videos may help you overcome this insecurity:
